@@ -1,4 +1,4 @@
-# Print-the-PCB-Board
+# Ex-08 Print-the-PCB-Board
 # Aim
 To Print PCB board based on your circuit.
 
@@ -63,8 +63,6 @@ License: Mach3 Mill may require purchasing a license for full functionality, dep
 System Requirements: Ensure that your computer meets the minimum system requirements specified by Mach3 Mill for optimal performance.
 Safety: Follow proper safety protocols and guidelines when operating CNC machines to prevent accidents and ensure operator safety.
 Overall, Mach3 Mill software provides powerful capabilities for PCB engraving, drilling, and cutting, enabling manufacturers to achieve precise and efficient PCB fabrication processes.
-
-# Output
 
 
 
